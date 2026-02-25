@@ -1,1 +1,2 @@
-# Password-Strength-Checker-python
+Password Strength Checker is a useful tool that helps users create strong and secure passwords. It checks whether a password is strong or weak based on certain conditions like length, use of uppercase and lowercase letters, numbers, and special characters. A strong password helps protect personal information from hackers and unauthorized access.
+When a user enters a password, the program analyzes it and gives feedback such as weak, medium, or strong. If the password is weak, the checker suggests improvements like adding more characters or including symbols and numbers. This tool is very important for improving online security and protecting accounts. 🔐
